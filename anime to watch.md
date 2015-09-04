@@ -1,4 +1,6 @@
 - [x] Toradora
+- [x] Bakano
+- [x] Wolf's Rain
 - [ ] Shinsekai yori (horror / post apcolpyse)
 - [ ] Monster
 - [ ] Tatami Galaxy
