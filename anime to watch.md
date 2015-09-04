@@ -1,0 +1,5 @@
+- [x] Toradora
+- [ ] Shinsekai yori (horror / post apcolpyse)
+- [ ] Monster
+- [ ] Tatami Galaxy
+- [ ] Steins;Gate
