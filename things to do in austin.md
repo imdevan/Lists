@@ -1,0 +1,7 @@
+- [ ] Go to barton springs  
+- [ ] Camp at Mckinney Falls  
+- [ ] Go Rock Climbing  
+- [ ] Go to the Parkor Gym  
+- [ ] Go to open mic night  
+- [ ] Beginner Swing Dance Lessons  
+- [ ] Salsa Dancing  
