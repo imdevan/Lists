@@ -5,3 +5,4 @@
 - [ ] Go to open mic night  
 - [ ] Beginner Swing Dance Lessons  
 - [ ] Salsa Dancing  
+- [ ] Hamilton Pool
