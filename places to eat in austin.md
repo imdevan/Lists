@@ -14,3 +14,4 @@
 - [ ] Key  
 - [ ] Justine's  
 - [x] Gourdough's
+- [ ] Trudy's Texas Star
