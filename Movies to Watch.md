@@ -2,6 +2,7 @@
 
 - [ ] Somebody Up There Likes Me   
 - [x] What We Do In The Shadows  
+- [ ] Funny Games  
 - [ ] The Edge of Tomorrow  
 - [x] Halloween Town  
 - [ ] Halloweentown II: Kalabar's Revenge  
@@ -21,3 +22,6 @@
 - [x] Desperado
 - [x] Once Upon A Time In Mexico
 - [ ] A Brony Tale
+- [ ] Interstellar
+- [ ] Into the Wild
+- [ ] Goodfellas
