@@ -9,3 +9,9 @@
 - [x] Return to Halloweentown  
 - [ ] Jodorowsky's Dune  
 - [ ] Mystery Men
+- [ ] The Martian
+- [ ] Chumscruber
+- [ ] Jimmy and Judy
+- [ ] Big Fish
+- [ ] Green Mile
+- [ ] Funny Games
