@@ -15,3 +15,5 @@
 - [ ] Big Fish
 - [ ] Green Mile
 - [ ] Funny Games
+- [ ] The Perks of Being a Wildflower
+- [ ] The Pianist
