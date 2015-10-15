@@ -15,3 +15,8 @@
 - [ ] Justine's  
 - [x] Gourdough's
 - [ ] Trudy's Texas Star
+- [ ] Counter Culture
+- [ ] Veggie Heaven ( when it reopens)
+- [ ] Home Slice
+- [ ] Earth Burger (San Antonio)
+- [x] Southside Flying Pizza
