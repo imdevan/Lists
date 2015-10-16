@@ -17,3 +17,6 @@
 - [ ] Funny Games
 - [ ] The Perks of Being a Wildflower
 - [ ] The Pianist
+- [x] El Mariachi
+- [ ] Desperado
+- [ ] Once Upon A Time In Mexico
