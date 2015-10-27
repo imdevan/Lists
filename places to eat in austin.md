@@ -1,3 +1,5 @@
+# Austin
+
 - [x] Magnia's Pizza   
 - [x] Lick  
 - [x] Ramen Tatsu-Ya   
@@ -18,5 +20,13 @@
 - [ ] Counter Culture
 - [ ] Veggie Heaven ( when it reopens)
 - [ ] Home Slice
-- [ ] Earth Burger (San Antonio)
 - [x] Southside Flying Pizza
+
+# SF
+
+- [ ] Anchor and Hope
+
+
+# SA
+
+- [ ] Earth Burger (San Antonio)
