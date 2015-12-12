@@ -2,7 +2,7 @@
 
 - [x] Somebody Up There Likes Me   
 - [x] What We Do In The Shadows  
-- [ ] Funny Games  
+- [x] Funny Games  
 - [x] Halloween Town  
 - [ ] Jodorowsky's Dune  
 - [x] Hair
