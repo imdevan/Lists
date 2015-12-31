@@ -12,3 +12,5 @@
 - [x] Desperado
 - [x] Once Upon A Time In Mexico
 - [x] A Brony Tale
+- [x] Jimmy and Judy
+- [x] Chumscruber
