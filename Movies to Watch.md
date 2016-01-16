@@ -2,6 +2,8 @@
 
 - [ ] John Wick
 - [ ] Jodorowsky's Dune  
+- [ ] El Topo
+- [ ] People Places Things
 - [x] Somebody Up There Likes Me   
 - [x] What We Do In The Shadows  
 - [x] Funny Games  
