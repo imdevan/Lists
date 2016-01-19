@@ -1,5 +1,11 @@
 # Movies to Watch 
 
+- [ ] 2010 (A Space Odyssey)
+- [ ] 2001: A Space Odyssey
+- [ ] Interstellar
+- [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+- [ ] Fantastic Planet
+- [ ] Barry Lyndon
 - [ ] John Wick
 - [ ] Jodorowsky's Dune  
 - [ ] El Topo
