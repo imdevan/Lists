@@ -9,7 +9,9 @@
 - [ ] John Wick
 - [ ] Jodorowsky's Dune  
 - [ ] El Topo
-- [ ] People Places Things
+- [ ] People Places 
+- [ ] Human the Movie http://imgur.com/a/GPDue
+- [ ] Short film http://imgur.com/a/VD0Za
 - [x] Somebody Up There Likes Me   
 - [x] What We Do In The Shadows  
 - [x] Funny Games  
