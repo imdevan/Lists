@@ -1,20 +1,20 @@
-# Movies to Watch 
+# Movies to Watch
 
 - [ ] 2010 (A Space Odyssey)
-- [ ] 2001: A Space Odyssey
-- [ ] Interstellar
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 - [ ] Fantastic Planet
 - [ ] Barry Lyndon
 - [ ] John Wick
 - [ ] Jodorowsky's Dune  
 - [ ] El Topo
-- [ ] People Places 
+- [ ] People Places
 - [ ] Human the Movie http://imgur.com/a/GPDue
 - [ ] Short film http://imgur.com/a/VD0Za
 - [ ] The Foundation
 - [ ] Spoopy Films http://imgur.com/a/PZbGG
 - [ ] Animations http://imgur.com/a/IudYc
+- [x] 2001: A Space Odyssey
+- [x] Interstellar
 - [x] Somebody Up There Likes Me   
 - [x] What We Do In The Shadows  
 - [x] Funny Games  
