@@ -2,6 +2,9 @@
 
 - [ ] 2010 (A Space Odyssey)
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+- [ ] Edge of Tomorrow
+- [ ] Her
+- [ ] Gravity
 - [ ] Fantastic Planet
 - [ ] Barry Lyndon
 - [ ] John Wick
