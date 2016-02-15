@@ -4,7 +4,6 @@
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 - [ ] Edge of Tomorrow
 - [ ] Her
-- [ ] Gravity
 - [ ] Fantastic Planet
 - [ ] Barry Lyndon
 - [ ] John Wick
@@ -19,6 +18,7 @@
 - [ ] Robot Hindi movie https://www.youtube.com/watch?v=6VVxOYtimBM
 - [ ] http://tolia.ge/
 - [ ] PERSEPOLIS
+- [x] Gravity
 - [x] 2001: A Space Odyssey
 - [x] Interstellar
 - [x] Somebody Up There Likes Me   
