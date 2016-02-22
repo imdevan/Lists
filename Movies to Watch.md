@@ -2,7 +2,8 @@
 
 - [ ] 2010 (A Space Odyssey)
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-- [ ] Edge of Tomorrow
+- [ ] Star Ship Troopers
+- [ ] Edge of Tomorrow (maybe remove, the begining starts poor)
 - [ ] Her
 - [ ] Fantastic Planet
 - [ ] Barry Lyndon
