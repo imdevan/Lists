@@ -19,6 +19,12 @@
 - [ ] Robot Hindi movie https://www.youtube.com/watch?v=6VVxOYtimBM
 - [ ] http://tolia.ge/
 - [ ] PERSEPOLIS
+- [ ] Platoon (1986)
+- [ ] Dances with Wolves (1990)
+- [ ] One Flew Over the Cuckoo's Nest (1975)
+- [ ] Annie Hall (1977)
+- [ ] The Deer Hunter (1978)
+- [ ] Ghandi (1980)
 - [x] Gravity
 - [x] 2001: A Space Odyssey
 - [x] Interstellar
