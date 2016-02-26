@@ -24,7 +24,7 @@
 - [ ] One Flew Over the Cuckoo's Nest (1975)
 - [ ] Annie Hall (1977)
 - [ ] The Deer Hunter (1978)
-- [ ] Ghandi (1980)
+- [ ] Chappie
 - [x] Gravity
 - [x] 2001: A Space Odyssey
 - [x] Interstellar
