@@ -2,12 +2,9 @@
 
 - [ ] 2010 (A Space Odyssey)
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-- [ ] Star Ship Troopers
-- [ ] Edge of Tomorrow (maybe remove, the begining starts poor)
 - [ ] Her
 - [ ] Fantastic Planet
 - [ ] Barry Lyndon
-- [ ] John Wick
 - [ ] Jodorowsky's Dune  
 - [ ] El Topo
 - [ ] People Places
@@ -25,6 +22,9 @@
 - [ ] Annie Hall (1977)
 - [ ] The Deer Hunter (1978)
 - [ ] Chappie
+- [x] Edge of Tomorrow (bad)
+- [x] Star Ship Troopers (book infinity times better)
+- [x] John Wick (terrible)
 - [x] Gravity
 - [x] 2001: A Space Odyssey
 - [x] Interstellar
