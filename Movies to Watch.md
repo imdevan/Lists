@@ -21,7 +21,7 @@
 - [ ] One Flew Over the Cuckoo's Nest (1975)
 - [ ] Annie Hall (1977)
 - [ ] The Deer Hunter (1978)
-- [ ] Chappie
+- [x] Chappie
 - [x] Edge of Tomorrow (bad)
 - [x] Star Ship Troopers (book infinity times better)
 - [x] John Wick (terrible)
