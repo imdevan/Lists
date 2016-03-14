@@ -1,5 +1,6 @@
 # Austin
 
+- [ ] Nono's Mexican Restaurant
 - [x] Magnia's Pizza   
 - [x] Lick  
 - [x] Ramen Tatsu-Ya   
