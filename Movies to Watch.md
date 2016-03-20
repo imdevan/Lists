@@ -4,7 +4,6 @@
 - [ ] How to Succeed in Business Without Really Trying
 - [ ] 2010 (A Space Odyssey)
 - [ ] Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-- [ ] Her
 - [ ] Fantastic Planet
 - [ ] Barry Lyndon
 - [ ] Jodorowsky's Dune  
@@ -23,6 +22,7 @@
 - [ ] One Flew Over the Cuckoo's Nest (1975)
 - [ ] Annie Hall (1977)
 - [ ] The Deer Hunter (1978)
+- [x] Her
 - [x] Chappie
 - [x] Edge of Tomorrow (bad)
 - [x] Star Ship Troopers (book infinity times better)
